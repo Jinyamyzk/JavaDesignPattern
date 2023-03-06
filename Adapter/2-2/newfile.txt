@@ -1,0 +1,5 @@
+#written by FileProperties yeah
+#Tue Feb 14 16:16:20 JST 2023
+depth=32
+width=1024
+height=512
